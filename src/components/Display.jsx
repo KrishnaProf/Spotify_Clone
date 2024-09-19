@@ -3,7 +3,6 @@ import { Routes, Route } from "react-router-dom";
 import { useLocation } from "react-router-dom";
 import DisplayAlbum from "./DisplayAlbum";
 import DisplayHome from "./DisplayHome";
-
 import { albumsData } from "../assets/assets";
 
 const DIsplay = () => {
